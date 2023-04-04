@@ -2,8 +2,8 @@
 
 Display |      Name       | Github Profile | Portfolio 
 --------|:---------------:|:--------------:|:---------:
-![](https://via.placeholder.com/100.png?text=Photo) | Darren Ang | [Github](https://github.com/darrenangwx) | [Portfolio](docs/team/darrenang.md)
-![](https://via.placeholder.com/100.png?text=Photo) | Kristian Achwan | [Github](https://github.com/kristianachwan) | [Portfolio](docs/team/kristianachwan.md)
-![](https://via.placeholder.com/100.png?text=Photo) |Zhou HuiQi | [Github](https://github.com/stella1585) | [Portfolio](docs/team/zhouhuiqi.md)
-![](https://via.placeholder.com/100.png?text=Photo) |   Dou Peihao    | [Github](https://github.com/douph810975) | [Portfolio](docs/team/doupeihao.md)
-![](https://via.placeholder.com/100.png?text=Photo) | Lim Zheng Rong | [Github](https://github.com/Zeno-Zr) | [Portfolio](docs/team/limzhengrong.md)
+<img src="https://avatars.githubusercontent.com/u/15652564?v=4" width="100"/> | Darren Ang | [Github](https://github.com/darrenangwx) | [Portfolio](team/darrenangwx.md)
+<img src="https://avatars.githubusercontent.com/u/92352682?v=4" width="100"/> | Kristian Achwan | [Github](https://github.com/kristianachwan) | [Portfolio](team/kristianachwan.md)
+<img src="https://avatars.githubusercontent.com/u/88623728?v=4" width="100"/>  |Zhou HuiQi | [Github](https://github.com/stella1585) | [Portfolio](team/zhouhuiqi.md)
+<img src="https://avatars.githubusercontent.com/u/90822875?v=4" width="100"/>  |   Dou Peihao    | [Github](https://github.com/douph810975) | [Portfolio](team/doupeihao.md)
+<img src="https://avatars.githubusercontent.com/u/87852386?v=4" width="100"/> | Lim Zheng Rong | [Github](https://github.com/Zeno-Zr) | [Portfolio](team/limzhengrong.md)

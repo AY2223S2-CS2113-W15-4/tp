@@ -1,9 +1,9 @@
 @startuml
 !define DINERDIRECTOR_COLOR #yellow
 !define PARSER_COLOR #orange
-!define COMMAND_COLOR #purple
+!define COMMAND_COLOR #magenta
 !define UI_COLOR #lightgreen
-!define MANAGER_COLOR #lime
+!define MANAGER_COLOR #violet
 !define ENTITY_COLOR #darkgreen
 !define STORAGE_COLOR #pink
 
